@@ -132,6 +132,47 @@ label {
   border: none;
   border-radius: 5px;
 }
+.display-second .right-side{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem;
+  /* flex-direction: column; */
+}
+.right-side{
+  display: none;
+}
+.form-button.button {
+  color: white;
+  width: 100%;
+  padding: 1rem;
+  background-color: hsl(278, 68%, 11%);
+  border: none;
+  border-radius: 5px;
+}
 
-@media screen {
+/* .right-side2{
+  display: flex;
+  flex-direction: column;
+} */
+
+
+/* .buttun:active .display-second{
+  display: flex;
+  
+
+
+}
+
+.buttun:active .display-one{
+  display:none; */
+
+  form{
+    disp
+  }
+
+
+@media screen and (max-width: 1200px) {
+
 }
